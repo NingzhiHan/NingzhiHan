@@ -30,9 +30,9 @@
 
 *EQUIPPING THESE ARTIFACTS GRANTS +10 TO DEVELOPMENT SPEED*
 
-*   **WEAPONS (Languages):** `TypeScript` `Python` `Rust` *(Forged in the Cold War)*
-*   **ARMOR (Frontend/UI):** `React` `Tailwind` *(Psychic shielding active)*
-*   **ARTIFACTS (Tools):** `Git` `Docker` `Vim` *(Found deep in the dungeon)*
+*   **言葉:** `TypeScript` `Python` `Rust` 
+*   **Frontend/UI:** `React` `Tailwind` 
+*   **Tools:** `Git` `Docker` `Vim` 
 
 <br>
 
