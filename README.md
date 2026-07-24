@@ -1,67 +1,103 @@
-<div align="center">
-  <a href="https://github.com/NingzhiHan">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=600&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=ДOБРO+ПOЖAЛOВAТЬ,+COMRADE.;WARNING:+DIMENSIONAL+RIFT+DETECTED;ENTERING+THE+UPSIDE+DOWN...;LOADING+SOVIET_WAVE.EXE" alt="Typing SVG" />
-  </a>
-  
-  <a href="https://github.com/NingzhiHan">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800" alt="Retro Terminal" />
-  </a>
-</div>
+<a id="home"></a>
 
-# 📁 ДОСЬЕ: NINGZHIHAN [CLASSIFIED]
+<p align="center">
+  <img src="./webcore-hero.jpg" alt="A maximalist Y2K internet collage combining glossy aqua nature, glitter stickers, old web windows and a millennium rollover display" width="100%" />
+</p>
 
-```text
-> ⚠️ INTRUDER DETECTED IN SECTOR 4...
-> 📼 INITIATING BACKUP TAPE...
-> 🎲 ROLLING INITIATIVE... [NATURAL 20]
-> 🔓 ACCESS GRANTED TO K-011 UNDERGROUND FACILITY
-```
+<h1 align="center">NINGZHIHAN'S WORLD WIDE HOME</h1>
 
-<br>
+<p align="center">
+  <code>personal homepage v2.000</code><br />
+  best viewed with curiosity, glitter enabled, and one browser tab too many
+</p>
 
-### 📡 [ TERMINAL // CHARACTER_STATS ]
+<p align="center">
+  <a href="#home">HOME</a> ::
+  <a href="#aqua-zone">AQUA ZONE</a> ::
+  <a href="#file-directory">FILE DIRECTORY</a> ::
+  <a href="#system-status">SYSTEM STATUS</a> ::
+  <a href="#guestbook">GUESTBOOK</a>
+</p>
 
-| ATTRIBUTE | VALUE | DESCRIPTION |
-| :--- | :--- | :--- |
-| **CLASS** | `Code Stalker` | Navigator of the Upside-Down Web |
-| **FACTION** | `Department of Anomalies` | Soviet-era research division |
-| **HP** | `[████████--]` | Surviving on dark coffee & synthwave |
-| **MANA** | `[██████████]` | Fully charged for midnight coding |
-| **BASE** | `Bunker 011` | Location: [REDACTED] |
+<p align="center">
+  <img src="./webcore-badges.svg" alt="Old web style Y2K and aqua aesthetic badges" width="100%" />
+</p>
 
-<br>
+> [!WARNING]
+> **MILLENNIUM ROLLOVER ANOMALY** — System clock changed from `99` to `00`. Some memories may now appear brighter, wetter, or covered in glitter.
 
-### 🎒 [ INVENTORY // TECH_STACK ]
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>WELCOME.TXT</h3>
+      <p>You have reached a small personal node somewhere between the optimistic web, a flooded desktop, and a midnight synthesizer signal.</p>
+      <p>This space collects image tools, visual experiments, interface fragments, and side quests that should probably have stayed in the downloads folder.</p>
+    </td>
+    <td width="45%" valign="top">
+      <h3>NOW ONLINE</h3>
+      <pre>USER     : NingzhiHan
+MODE     : AQUA / GLITTER
+LINK     : 56K SIMULATION
+STATUS   : STILL LOADING
+VISITOR  : #0002000</pre>
+    </td>
+  </tr>
+</table>
 
-*EQUIPPING THESE ARTIFACTS GRANTS +10 TO DEVELOPMENT SPEED*
-
-*   **WEAPONS (Languages):** `TypeScript` `Python` `Rust` *(Forged in the Cold War)*
-*   **ARMOR (Frontend/UI):** `React` `Tailwind` *(Psychic shielding active)*
-*   **ARTIFACTS (Tools):** `Git` `Docker` `Vim` *(Found deep in the dungeon)*
-
-<br>
-
-### 🗺️ [ DUNGEON MAP // ANOMALY_LOG ]
-
-| LEVEL | ANOMALY NAME | CONTAINMENT STATUS | NOTES |
-| :---: | :--- | :--- | :--- |
-| 🗄️ **01** | `[Your_Project_1]` | 🟢 *Secured* | Describe your first project here. [Link](#) |
-| ☢️ **02** | `[Your_Project_2]` | 🟡 *Testing* | Unstable environment testing. [Link](#) |
-| 🎲 **03** | `[Your_Project_3]` | 🔴 *Unstable* | Demogorgon escaped, refactoring. [Link](#) |
-
-<br>
-
-### 📻 [ COMMS // ENCRYPTED_CHANNEL ]
+## AQUA ZONE
 
 ```text
-[!] INCOMING TRANSMISSION...
-Tuning radio... *static*... "Do you copy?"
-
->> GITHUB_FREQ: @NingzhiHan
->> EMAIL_FREQ: your.email@kgb-archive.com
->> TWITTER_FREQ: [REDACTED]
+       .-.               .-.               .-.
+    .-(   )-.         .-(   )-.         .-(   )-.
+   (  LIQUID  )  ~~~ (  MEMORY  )  ~~~ (  SIGNAL  )
+    '-(   )-'         '-(   )-'         '-(   )-'
+       '-'               '-'               '-'
 ```
 
-<div align="center">
-  <sub>☭ OVER AND OUT // ROLL FOR STEALTH // BEWARE THE DEMOGORGON 🚲</sub>
-</div>
+The interface is glossy because the future once looked clean. The water is clear because the internet once felt unexplored. The glitter is here because personal homepages were never meant to be quiet.
+
+## FILE DIRECTORY
+
+| FILE | TYPE | DESCRIPTION | STATE |
+| :-- | :-- | :-- | :-- |
+| `IMAGE_TOOLS.HTML` | utility | Small tools for finding, viewing, and working with images. | `[OPEN]` |
+| `VISUAL_LAB.GIF` | experiment | Interfaces, textures, signals, bubbles, and browser memories. | `[LOOP]` |
+| `SIDE_QUESTS.ZIP` | archive | Strange prototypes and unfinished ideas from another tab. | `[99%]` |
+| `MIDNIGHT_FM.MP3` | transmission | Cyan, magenta, chrome, scanlines, and synthetic weather. | `[PLAY]` |
+
+## SYSTEM STATUS
+
+```text
+[ OK ] AQUA ENGINE ................. water level stable
+[ OK ] GLITTER RENDERER ............ sparkle cache full
+[WARN] DATE MODULE ................. 12/31/99 -> 01/01/00
+[ OK ] OLD WEB COMPATIBILITY ....... guestbook ready
+[ .. ] FUTURE ...................... under construction
+```
+
+<details>
+  <summary><b>[ click here to enter the hidden web ring ]</b></summary>
+
+  <br />
+
+  `BLINGEECORE` -> `FRUTIGER AERO` -> `SYNTHWAVE` -> `OLD WEB` -> `2000s INTERNET` -> `Y2K BUG` -> `HOME`
+
+  <br />
+
+  This ring has no beginning, no end, and at least three broken image links.
+</details>
+
+## GUESTBOOK
+
+```text
++-----------------------------------------------------------+
+| FROM: anonymous@internet                                  |
+| DATE: 01/01/00                                            |
+| MSG : cool page!!! keep the water running <3              |
++-----------------------------------------------------------+
+```
+
+<p align="center">
+  <sub>HAND-CODED IN THE PERSONAL WEB ZONE // NO FLAT DESIGN DETECTED</sub><br />
+  <sub>LAST UPDATED: WHEN THE CLOCK ROLLED OVER</sub>
+</p>
