@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="68" viewBox="0 0 1040 68" role="img" aria-labelledby="title desc">
+  <title id="title">Old web aesthetic badge strip</title>
+  <desc id="desc">Eight glossy retro internet badges for Y2K, aqua web, glitter, dial-up, synthwave and old web aesthetics.</desc>
+  <defs>
+    <linearGradient id="aqua" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaffff"/>
+      <stop offset="0.45" stop-color="#42e7ff"/>
+      <stop offset="1" stop-color="#0075d9"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7ce5"/>
+      <stop offset="0.5" stop-color="#ff20c8"/>
+      <stop offset="1" stop-color="#6b27ff"/>
+    </linearGradient>
+    <linearGradient id="lime" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4ff8d"/>
+      <stop offset="1" stop-color="#45c900"/>
+    </linearGradient>
+    <pattern id="checker" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#0a001d"/>
+      <rect x="4" y="4" width="4" height="4" fill="#0a001d"/>
+      <rect x="4" width="4" height="4" fill="#b112ff"/>
+      <rect y="4" width="4" height="4" fill="#b112ff"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="1.7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1040" height="68" fill="#05001b"/>
+  <g font-family="Verdana,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <g transform="translate(4 4)">
+      <rect width="124" height="60" fill="url(#aqua)" stroke="#fff" stroke-width="2"/>
+      <rect x="4" y="4" width="116" height="52" fill="none" stroke="#004da3"/>
+      <text x="62" y="25" fill="#002d63">Y2K READY</text>
+      <text x="62" y="44" fill="#fff" font-size="10">99 -&gt; 00 OK</text>
+    </g>
+    <g transform="translate(134 4)">
+      <rect width="124" height="60" fill="url(#lime)" stroke="#fff" stroke-width="2"/>
+      <circle cx="24" cy="30" r="17" fill="#24bfff" stroke="#eaffff"/>
+      <path d="M10 31 Q24 18 38 31 Q24 42 10 31Z" fill="#d9ffff" opacity=".8"/>
+      <text x="83" y="27" fill="#064900">AQUA</text>
+      <text x="83" y="44" fill="#064900" font-size="10">WEB 2.0</text>
+    </g>
+    <g transform="translate(264 4)">
+      <rect width="124" height="60" fill="url(#pink)" stroke="#fff" stroke-width="2"/>
+      <text x="62" y="25" fill="#fff" filter="url(#glow)">GLITTER</text>
+      <text x="62" y="44" fill="#fff" font-size="10">ALWAYS ON</text>
+      <g fill="#fff">
+        <path d="M14 8l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"><animate attributeName="opacity" values=".25;1;.25" dur="1.3s" repeatCount="indefinite"/></path>
+        <path d="M109 36l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"><animate attributeName="opacity" values="1;.2;1" dur=".9s" repeatCount="indefinite"/></path>
+      </g>
+    </g>
+    <g transform="translate(394 4)">
+      <rect width="124" height="60" fill="#071125" stroke="#7dfaff" stroke-width="2"/>
+      <path d="M10 40h10v-9h10v-7h10v-6h10v-5" fill="none" stroke="#7dfaff" stroke-width="3"/>
+      <text x="88" y="26" fill="#7dfaff">56K</text>
+      <text x="88" y="43" fill="#ff5bd7" font-size="10">CONNECTED</text>
+    </g>
+    <g transform="translate(524 4)">
+      <rect width="124" height="60" fill="url(#checker)" stroke="#fff" stroke-width="2"/>
+      <rect x="7" y="10" width="110" height="40" fill="#100028" stroke="#ff55e9"/>
+      <text x="62" y="28" fill="#47f6ff">SYNTH</text>
+      <text x="62" y="44" fill="#ff55e9" font-size="10">AFTER DARK</text>
+    </g>
+    <g transform="translate(654 4)">
+      <rect width="124" height="60" fill="#ececec" stroke="#fff" stroke-width="2"/>
+      <rect x="5" y="5" width="114" height="50" fill="none" stroke="#777"/>
+      <text x="62" y="25" fill="#000080">BEST VIEWED</text>
+      <text x="62" y="44" fill="#333" font-size="10">800 x 600</text>
+    </g>
+    <g transform="translate(784 4)">
+      <rect width="124" height="60" fill="#ffe500" stroke="#fff" stroke-width="2"/>
+      <path d="M0 45l15-15 15 15 15-15 15 15 15-15 15 15 15-15 19 19v11H0Z" fill="#111"/>
+      <text x="62" y="23" fill="#111">UNDER</text>
+      <text x="62" y="41" fill="#111" font-size="10">CONSTRUCTION</text>
+    </g>
+    <g transform="translate(914 4)">
+      <rect width="122" height="60" fill="#001c70" stroke="#fff" stroke-width="2"/>
+      <text x="61" y="25" fill="#6ffcff">OLD WEB</text>
+      <text x="61" y="44" fill="#fff" font-size="10">NEVER DIED</text>
+    </g>
+  </g>
+</svg>
