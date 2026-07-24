@@ -1,6 +1,11 @@
 <div align="center">
-  <!-- 建议将 src 替换为你自己生成的带有暗黑/红光/像素风的苏联地堡图片 -->
-  <img src="https://raw.githubusercontent.com/NingzhiHan/NingzhiHan/main/bunker-header.png" alt="Top Secret Soviet Bunker" width="100%" />
+  <a href="https://github.com/NingzhiHan">
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=600&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=ДOБРO+ПOЖAЛOВAТЬ,+COMRADE.;WARNING:+DIMENSIONAL+RIFT+DETECTED;ENTERING+THE+UPSIDE+DOWN...;LOADING+SOVIET_WAVE.EXE" alt="Typing SVG" />
+  </a>
+  
+  <a href="https://github.com/NingzhiHan">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800" alt="Retro Terminal" />
+  </a>
 </div>
 
 # 📁 ДОСЬЕ: NINGZHIHAN [CLASSIFIED]
@@ -30,9 +35,9 @@
 
 *EQUIPPING THESE ARTIFACTS GRANTS +10 TO DEVELOPMENT SPEED*
 
-*   **言葉:** `TypeScript` `Python` `Rust` 
-*   **Frontend/UI:** `React` `Tailwind` 
-*   **Tools:** `Git` `Docker` `Vim` 
+*   **WEAPONS (Languages):** `TypeScript` `Python` `Rust` *(Forged in the Cold War)*
+*   **ARMOR (Frontend/UI):** `React` `Tailwind` *(Psychic shielding active)*
+*   **ARTIFACTS (Tools):** `Git` `Docker` `Vim` *(Found deep in the dungeon)*
 
 <br>
 
